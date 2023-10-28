@@ -1,2 +1,0 @@
-# McLahuncer
-Minecraft Lahunceri
